@@ -9,3 +9,5 @@ java.time package for java8
 Java 8中引入了新的日期api，是标准的JSR-310规范的实现，与开源的Joda-Time日期处理框架类似。
 
 Java 8的日期和时间类包括LocalDate、LocalTime、Instant、Duration以及Period，这些类都包含在java.time包中。
+
+参考：[Java 8新特性：新的时间和日期API](https://lw900925.github.io/java/java8-newtime-api.html)
